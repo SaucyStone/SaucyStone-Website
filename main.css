@@ -1,0 +1,36 @@
+body{
+	background-color:#1a1a1a;
+	border: 3px solid white;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	
+}
+
+h1,a{
+	color: #FF7F50;
+	text-align: center;
+	font-size: 54px;
+}
+h2,a{
+	color: #09AEFF;
+	text-align: center;
+	font-size: 24px;
+}
+
+.nav{
+	 background-color: #626262;
+	 border: none;
+	 color:  #09AEFF;
+	 padding: 10px;
+	 text-align: center;
+	 font-size: 16px;
+	 margin: 5px 0px;
+	 cursor: pointer;
+	 margin-top: 0px;
+}
+
+footer{
+	text-align: center;
+}
