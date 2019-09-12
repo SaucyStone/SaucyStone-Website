@@ -1,5 +1,5 @@
 body{
-	background-color:#1a1a1a;
+	background-color:#1f1f1f;
 	border: 3px solid white;
 	display: block;
 	margin-left: auto;
@@ -20,7 +20,7 @@ h2,a{
 }
 
 .nav{
-	 background-color: #626262;
+	 background-color: #2b2b2b;
 	 border: none;
 	 color:  #09AEFF;
 	 padding: 10px;
